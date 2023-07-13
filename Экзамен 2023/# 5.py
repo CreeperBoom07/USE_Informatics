@@ -1,18 +1,26 @@
-def to_thee(num):
+def tr(x: int) -> str:
     s = ''
-    while num:
-        s = str(num % 3) + s
-        num //= 3
+    while x:
+        s = str(x%3) + s
+        x //= 3
     return s
 
-
-for n in range(1, 1000):
-    R = to_thee(n)
+def f(n):
+    r = tr(n)
     if n % 3 == 0:
-        R += R[-2:]
+        r += r[-2:]
     else:
-        R += to_thee((n%3)*5)
-    if int(R, 3) > 133:
-        print(int(R, 3))
-        break
-
+        r += tr(n % 3 * 5)
+    # if int(r, 3) > 133:
+    print(int(r, 3))
+f(11)
+f(12)
+# for n in range(1, 1000):
+#     r = tr(n)
+#     if n % 3 == 0:
+#         r += r[-2:]
+#     else:
+#         r += tr(n % 3 * 5)
+#     if int(r, 3) > 133:
+#         print(int(r, 3))
+#         break
