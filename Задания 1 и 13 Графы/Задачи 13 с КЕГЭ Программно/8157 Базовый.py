@@ -12,3 +12,5 @@ def f(s, end):
     return sum(f(s+c, end) for c in d[s[-1]])
 
 print(f('А', 'М'))
+
+
