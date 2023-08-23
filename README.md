@@ -28,11 +28,11 @@
 3. В репозитории размещены задачи из банков: 
 
 
-| Банк                                                          | Ссылка                                   |
-|---------------------------------------------------------------|------------------------------------------|
-| [ФИПИ](https://fipi.ru/ege)                                   | <img src="emoji/fipi.png" height="32"/>  |
-| [КЕГЭ](https://kompege.ru/task)                               | <img src="emoji/KEGE.png" height="32"/>  |
-| [К.Поляков](https://kpolyakov.spb.ru/school/ege/generate.htm) | <img src="emoji/polak.jpg" height="32"/> |
+| Банк      | Ссылка                                                                                    |
+|-----------|-------------------------------------------------------------------------------------------|
+| ФИПИ      | <a href=https://fipi.ru/ege target="_blank"> <img src="emoji/fipi.png" height="32" /> </a> |
+| КЕГЭ      | <a href=https://kompege.ru/ target="_blank"> <img src="emoji/KEGE.png" height="32" /> </a> |
+| К.Поляков | <a href=https://kpolyakov.spb.ru/school/ege/generate.htm target="_blank"> <img src="emoji/polak.jpg" height="32" /> </a>                   |
 
 
 ## <p align='center'>👉Примечания</p>
