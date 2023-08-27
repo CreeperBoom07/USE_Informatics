@@ -57,5 +57,5 @@
 | Изучена теория            | ![](https://geps.dev/progress/80)  |
 | Завершено решение задач   | ![](https://geps.dev/progress/100) |
 ____
-# <div id="header" align="center"> <img src="emoji/thinking-emoji-43.gif" width="100"/> </div>
+<div id="header" align="center"> <img src="emoji/thinking-emoji-43.gif" width="100"/> </div>
 
