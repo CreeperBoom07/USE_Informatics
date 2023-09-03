@@ -25,26 +25,14 @@
 2. В подкаталогах "домашние задания" размешены решения задач из раздела "Домашняя работа" к соответствующему занятию из Открытого курса.
 
 
-3. В репозитории размещены задачи из банков:
-<head>
-<style>
-    .table_center_by_css {
-        width: 177px;
-        border: 0px solid #000;
-        margin: auto;
-        }
-</style>
-
-<table class="table_center_by_css">
-    <tr> <th>Банк</th> <th>Ссылка</th> </tr>
-    <tr> <td>ФИПИ</td> <td> <a href=https://fipi.ru/ege target="_blank"> <img src="emoji/fipi.png" height="32" /> </a> </td> </tr>
-    <tr> <td>КЕГЭ</td><td> <a href=https://kompege.ru/ target="_blank"> <img src="emoji/KEGE.png" height="32" /> </a>  </td> </tr>
-    <tr> <td>К.Поляков</td> <td> <a href=https://kpolyakov.spb.ru/school/ege/generate.htm target="_blank"> <img src="emoji/polak.jpg" height="32" /> </a> </td> </tr>
-</table>
-</head>
+3. В репозитории размещены задачи из банков: 
 
 
-
+| Банк      | Ссылка                                                                                    |
+|-----------|-------------------------------------------------------------------------------------------|
+| ФИПИ      | <a href=https://fipi.ru/ege target="_blank"> <img src="emoji/fipi.png" height="32" /> </a> |
+| КЕГЭ      | <a href=https://kompege.ru/ target="_blank"> <img src="emoji/KEGE.png" height="32" /> </a> |
+| К.Поляков | <a href=https://kpolyakov.spb.ru/school/ege/generate.htm target="_blank"> <img src="emoji/polak.jpg" height="32" /> </a>                   |
 
 
 ## <p align='center'>👉Примечания</p>
