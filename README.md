@@ -25,10 +25,8 @@
 2. В подкаталогах "домашние задания" размешены решения задач из раздела "Домашняя работа" к соответствующему занятию из Открытого курса.
 
 
-3. В репозитории размещены задачи из банков: 
-
-
-
+3. В репозитории размещены задачи из банков:
+<head>
 <style>
     .table_center_by_css {
         width: 177px;
@@ -43,6 +41,7 @@
     <tr> <td>КЕГЭ</td><td> <a href=https://kompege.ru/ target="_blank"> <img src="emoji/KEGE.png" height="32" /> </a>  </td> </tr>
     <tr> <td>К.Поляков</td> <td> <a href=https://kpolyakov.spb.ru/school/ege/generate.htm target="_blank"> <img src="emoji/polak.jpg" height="32" /> </a> </td> </tr>
 </table>
+</head>
 
 
 
