@@ -3,9 +3,8 @@ s = s.replace('F', 'C').replace('D', 'C')
 s = s.replace('O', 'A')
 s = s.replace('CA', 'C A')
 s = s.split()
-m = 0
 for i in range(len(s)-5):
     c = s[i:i+5]
     m = max(len(c), m)
 print(m)
-# 16
+### 16
